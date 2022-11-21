@@ -1,3 +1,5 @@
+# Authors: Carlos Estevez Fraga (c.fraga _at_ ucl.ac.uk) & Christopher Parker (christopher.parker _at_ ucl.ac.uk)
+
 #!/bin/bash
 
 # REGISTER DWI IMAGES IN MNI SPACE WITH NIFTYREG
